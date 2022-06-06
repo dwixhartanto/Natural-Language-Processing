@@ -1,4 +1,4 @@
-## **Laporan Proyek Machine Learning - Nur Baiti Nasution**
+## **INDONESIA MOVIE RECOMMENDER SYSTEM**
 
 ### **Project Overview**
 
