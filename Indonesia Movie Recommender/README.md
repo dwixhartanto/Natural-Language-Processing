@@ -29,7 +29,8 @@ Membuat sebuah Sistem Rekomendasi agar memudahkan pengguna mencari judul film ya
 
 Untuk menyelesaikan masalah ini, penulis menggunakan teknik content-based filtering. Berikut adalah penjelasan teknik tersebut yang akan digunakan untuk masalah ini :
 
-    Content-Based Filtering : Merupakan cara untuk memberi rekomendasi bedasarkan genre atau fitur pada item yang disukai oleh pengguna. Content-based filtering mempelajari profil minat pengguna baru berdasarkan data dari objek yang telah dinilai pengguna.
+Content-Based Filtering : Merupakan cara untuk memberi rekomendasi bedasarkan genre atau fitur pada item yang disukai oleh pengguna. Content-based filtering mempelajari profil minat pengguna baru berdasarkan data dari objek yang telah dinilai pengguna.
+    
 
 ### ***Data Understanding***
 
