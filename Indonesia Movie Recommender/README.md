@@ -12,7 +12,6 @@ Menurut situs [Facts.net](https://facts.net/netflix-facts/) "Di tahun 2019 Netfl
 
 Sistem rekomendasi sendiri merupakan sebuah solusi yang bisa memberikan referensi yang bersifat personal dengan mempelajari penilaian pengguna terhadap item yang pernah dipilihnya.
 
-Dari latar belakang diatas, penulis memilih domain proyek  ***Sistem Rekomendasi Film Indonesia***
 ### **Business Understanding**
 
 Sistem rekomendasi memprediksi rating atau preferensi pengguna terhadap item tertentu. Rekomendasi ini dibuat berdasarkan perilaku pengguna di masa lalu atau perilaku pengguna lainnya. Jadi, sistem ini akan merekomendasikan sesuatu terhadap pengguna berdasarkan data perilaku atau preferensi dari waktu ke waktu. 
